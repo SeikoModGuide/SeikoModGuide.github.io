@@ -1,8 +1,0 @@
-name = "seiko-mod-api"
-main = "worker.js"
-compatibility_date = "2024-01-01"
-
-[vars]
-SUCCESS_URL = "https://tony0210-ai.github.io/Guide-Seiko-Mod/success.html"
-CANCEL_URL = "https://tony0210-ai.github.io/Guide-Seiko-Mod/index.html"
-ALLOWED_ORIGIN = "https://tony0210-ai.github.io"
